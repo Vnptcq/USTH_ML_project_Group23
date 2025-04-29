@@ -1,0 +1,11 @@
+date,category,amount,payment_method,location,essential,emotion,notes
+2025-04-01,Food,50000,Cash,Home,True,Neutral,Self-cooked meal
+2025-04-01,Transportation,15000,Momo,City,True,Neutral,Bus ticket
+2025-04-02,Entertainment,120000,Credit Card,Mall,False,Happy,Movie ticket
+2025-04-02,Utilities,70000,Bank Transfer,Home,True,Neutral,Electricity bill
+2025-04-03,Shopping,250000,Credit Card,Mall,False,Excited,New shoes
+2025-04-03,Food,45000,Cash,Work,True,Hungry,Lunch at work
+2025-04-04,Medical,100000,Cash,Clinic,True,Neutral,Health check
+2025-04-04,Transportation,20000,Cash,City,True,Neutral,Taxi
+2025-04-05,Entertainment,80000,Credit Card,Online,False,Happy,Concert ticket
+2025-04-05,Others,30000,Cash,Market,False,Neutral,Gift

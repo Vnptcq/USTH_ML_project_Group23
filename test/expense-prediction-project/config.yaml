@@ -1,0 +1,12 @@
+model:
+  n_estimators: 100
+  max_depth: 6
+  learning_rate: 0.1
+  objective: 'reg:squarederror'
+
+data:
+  file_path: 'data/processed/expenses.csv'
+
+training:
+  test_size: 0.2
+  random_state: 42
